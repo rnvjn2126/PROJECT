@@ -1,0 +1,32 @@
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+streamlit==1.35.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+
+# Machine learning and AI
+tensorflow-cpu==2.16.1
+torch==2.2.2+cpu
+sentence-transformers==2.7.0
+transformers==4.40.2
+shap==0.45.1
+
+# Hugging Face datasets
+datasets==2.19.1
+pyarrow==15.0.2
+
+# PDF processing
+pdfplumber==0.11.0
+
+# Visualization
+matplotlib==3.8.4
+plotly==5.22.0
+
+# Language detection and translation
+langdetect==1.0.9
+deep-translator==1.11.4
+
+# HTTP requests
+requests==2.32.3
