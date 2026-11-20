@@ -30,3 +30,6 @@ deep-translator==1.11.4
 
 # HTTP requests
 requests==2.32.3
+
+datasets==2.19.1
+pyarrow==15.0.2
